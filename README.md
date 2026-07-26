@@ -12,3 +12,5 @@ Run the Z_main.m to begin
 This code is ONLY released for academic use. Please do not further distribute the code (including the download link), or put any of the code on the public website.
 
 Please kindly cite our paper if you use our code in your research. Thanks and hope you will benefit from our code.
+
+Y. Chu, X. Shang, J. Zhang, X. Sun, "Feature Optimized Dynamic Spectral Correlation Subspace Clustering for Hyperspectral Band Selection", ICIP 2026, (Accepted).
